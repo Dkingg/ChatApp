@@ -1,0 +1,2 @@
+rootProject.name='ChatMeApp'
+include ':app'
